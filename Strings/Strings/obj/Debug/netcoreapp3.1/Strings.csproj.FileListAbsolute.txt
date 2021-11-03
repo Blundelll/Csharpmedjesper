@@ -1,0 +1,13 @@
+/Users/kevin/Projects/Csharplæring/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/Users/kevin/Projects/Csharplæring/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/Users/kevin/Projects/Csharplæring/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/Users/kevin/Projects/Csharplæring/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/Users/kevin/Projects/Csharplæring/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.AssemblyReference.cache
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
+/Users/kevin/Projects/Csharplæring/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache
