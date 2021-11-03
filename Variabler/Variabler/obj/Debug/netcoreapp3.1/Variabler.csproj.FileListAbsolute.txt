@@ -1,0 +1,13 @@
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/bin/Debug/netcoreapp3.1/Variabler.deps.json
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/bin/Debug/netcoreapp3.1/Variabler.runtimeconfig.json
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/bin/Debug/netcoreapp3.1/Variabler.runtimeconfig.dev.json
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/bin/Debug/netcoreapp3.1/Variabler.dll
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/bin/Debug/netcoreapp3.1/Variabler.pdb
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.csproj.AssemblyReference.cache
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.AssemblyInfoInputs.cache
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.AssemblyInfo.cs
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.dll
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.pdb
+/Users/kevin/Projects/Csharplæring/Variabler/Variabler/obj/Debug/netcoreapp3.1/Variabler.genruntimeconfig.cache
