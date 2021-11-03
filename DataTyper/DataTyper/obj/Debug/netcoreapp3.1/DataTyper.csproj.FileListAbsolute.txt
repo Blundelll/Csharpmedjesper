@@ -1,0 +1,13 @@
+/Users/kevin/Projects/DataTyper/DataTyper/bin/Debug/netcoreapp3.1/DataTyper.deps.json
+/Users/kevin/Projects/DataTyper/DataTyper/bin/Debug/netcoreapp3.1/DataTyper.runtimeconfig.json
+/Users/kevin/Projects/DataTyper/DataTyper/bin/Debug/netcoreapp3.1/DataTyper.runtimeconfig.dev.json
+/Users/kevin/Projects/DataTyper/DataTyper/bin/Debug/netcoreapp3.1/DataTyper.dll
+/Users/kevin/Projects/DataTyper/DataTyper/bin/Debug/netcoreapp3.1/DataTyper.pdb
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.csproj.AssemblyReference.cache
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.AssemblyInfoInputs.cache
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.AssemblyInfo.cs
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.dll
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.pdb
+/Users/kevin/Projects/DataTyper/DataTyper/obj/Debug/netcoreapp3.1/DataTyper.genruntimeconfig.cache
