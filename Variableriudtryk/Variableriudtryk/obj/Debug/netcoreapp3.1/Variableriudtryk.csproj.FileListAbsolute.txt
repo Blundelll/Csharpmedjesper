@@ -1,0 +1,13 @@
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/bin/Debug/netcoreapp3.1/Variableriudtryk.deps.json
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/bin/Debug/netcoreapp3.1/Variableriudtryk.runtimeconfig.json
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/bin/Debug/netcoreapp3.1/Variableriudtryk.runtimeconfig.dev.json
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/bin/Debug/netcoreapp3.1/Variableriudtryk.dll
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/bin/Debug/netcoreapp3.1/Variableriudtryk.pdb
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.csproj.AssemblyReference.cache
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.AssemblyInfoInputs.cache
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.AssemblyInfo.cs
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.dll
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.pdb
+/Users/kevin/Projects/Csharplæring/Variableriudtryk/Variableriudtryk/obj/Debug/netcoreapp3.1/Variableriudtryk.genruntimeconfig.cache
