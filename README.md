@@ -1,5 +1,5 @@
 # Csharpmedjesper
-hjælp os
+hjælp os, 100% C# we are insane
 
 
 1: Variabler
