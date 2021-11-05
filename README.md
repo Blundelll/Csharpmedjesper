@@ -12,42 +12,42 @@ hjælp os, 100% C# we are insane
 
 5: Variabler i udtryk
 
-8: Syntaktisk sukker og klistre plus
+6: Syntaktisk sukker og klistre plus
 
-9: Boolean
+7: Boolean
 
-10: Kontrolstruktur
+8: Kontrolstruktur
 
-11: Switch
+9: Switch
 
-12: Loops
+10: Loops
 
-13: Udvidet
+11: Udvidet
 
-14: Objectorienteret programmering i C#
+12: Objectorienteret programmering i C#
 
-15: Metoder og instanser
+13: Metoder og instanser
 
-16: Returtyper og parametrer
+14: Returtyper og parametrer
 
-17: Instansvariabler
+15: Instansvariabler
 
-18: Referencer
+16: Referencer
 
-19: Nedarvning
+17: Nedarvning
 
-20: Konstruktors
+18: Konstruktors
 
-21: Arrays
+19: Arrays
 
-22: Gennemløb af arrays
+20: Gennemløb af arrays
 
-23: Public, Private og Protected
+21: Public, Private og Protected
 
-24: lav et program med C# en lommeregner, del 1/3
+22: lav et program med C# en lommeregner, del 1/3
 
-25: lav et program med C# en lommeregner, del 2/3
+23: lav et program med C# en lommeregner, del 2/3
 
-26: lav et program med C# en lommeregner, del 3/3
+24: lav et program med C# en lommeregner, del 3/3
 
-27: Hvad så nu?
+25: Hvad så nu?
