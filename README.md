@@ -51,3 +51,5 @@ hjælp os, 100% C# we are insane
 24: lav et program med C# en lommeregner, del 3/3
 
 25: Hvad så nu?
+
+cock and balls
